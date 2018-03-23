@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Quickstart Web Apps Blog</title>
+        <link>https://quickstart-app.github.io//blog</link>
+        <description>The best place to stay up-to-date with the latest Quickstart Web Apps news and events.</description>
+        <lastBuildDate>Thu, 15 Feb 2018 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Quickstart Web Apps Blog</title>
+            <url>https://quickstart-app.github.io//img/docusaurus.svg</url>
+            <link>https://quickstart-app.github.io//blog</link>
+        </image>
+        <copyright>Copyright © 2018 2DverseStudio</copyright>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>https://quickstart-app.github.io//blog/2018/02/15/hello-world.html</link>
+            <guid>https://quickstart-app.github.io//blog/2018/02/15/hello-world.html</guid>
+            <pubDate>Thu, 15 Feb 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Hello</p>
+]]></description>
+        </item>
+    </channel>
+</rss>
