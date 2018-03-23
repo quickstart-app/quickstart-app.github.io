@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "Server Setup": [
+      "server-installation",
+      "server-scaling"
+    ],
+    "Unity Setup": [
+      "unity-installation"
+    ],
+    "Documentation API": [
+      "api-documentation"
+    ]
+  }
+}
